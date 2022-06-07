@@ -1,3 +1,0 @@
-[bot config]
-num = 07852566025
-pw = Lilliella21!!
